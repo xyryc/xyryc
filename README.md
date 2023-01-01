@@ -9,8 +9,8 @@
   <code>
     <a href="https://www.linkedin.com/in/md-talath-un-nabi-230a871b5/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/code_six" title="CodeForces Profile"><img width="22" src="images/codeforces.png"> CodeForces</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://twitter.com/ANick20068930" title="Twitter Profile"><img width="22" src="images/twitter.jpg"> Twitter </a></code>
+  <code><a href="#" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
