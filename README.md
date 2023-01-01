@@ -17,18 +17,17 @@
   Hi, I'm Anik, Game Developer & Computer Engineer
   <br>
   <br>
-  🔬 I'm currently pursuing a bachelor's degree in Computer Science and Engineering at Bangladesh Army University of Science & Technology.
+  🔬 I'm currently pursuing a bachelor's degree in Computer Science and Engineering at Bangladesh Army University of Science & Technology
   
   <br>
   🎓 I graduated from Dinajpur Zilla School
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 Both developing and playing games are my passions
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning Unreal Engine 5
+  
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 Contact me: <a href="mailto: contact2distraction@gmail.com"> Gmail </a>
 </p>
 
 <hr>
