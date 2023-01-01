@@ -17,11 +17,10 @@
   Hi, I'm Anik, Game Developer & Computer Engineer
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 I'm currently pursuing a bachelor's degree in Computer Science and Engineering at Bangladesh Army University of Science & Technology.
+  
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I graduated from Dinajpur Zilla School
   <br>
   💻 I love writing code and learn anythings about it
   <br>
