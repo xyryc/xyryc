@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="./images/coding.gif" alt="Banner"></a>
+  <a href="https://github.com/xyryc"><img src="./images/coding.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">
@@ -24,7 +24,7 @@
 
 - **Languages:** HTML, CSS, JavaScript, Python
 - **Frameworks:** Tailwind CSS, DaisyUI, React, Node.js
-- **Tools:** Git, GitHub, VS Code, Figma
+- **Tools:** Git, VS Code, Figma, Pixso
 - **Learning:** TypeScript, Next.js
 
 ## 🌱 What I'm Currently Working On
@@ -35,7 +35,6 @@
 
 <br>
 
-<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -57,13 +56,13 @@
 
 <br>
 
-<hr>
-  <p>
-  <br><a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/></a></p>
-<hr>
+  ## Free Palestine
+  
+  <p><a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/></a></p>
+
 - ⚡ Fun fact: Game Developers Get To Play Games As Part Of Their Job
-<hr>
+
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=xyryc&style=flat) &nbsp;[![wakatime](https://wakatime.com/badge/user/29aac146-9e8f-4c2a-adf9-d81d235f9c45.svg?style=flat)](https://wakatime.com/@29aac146-9e8f-4c2a-adf9-d81d235f9c45)
+![](https://komarev.com/ghpvc/?username=xyryc&style=flat) &nbsp;[![wakatime](https://wakatime.com/badge/user/29aac146-9e8f-4c2a-adf9-d81d235f9c45.svg?style=flat)](https://wakatime.com/@29aac146-9e8f-4c2a-adf9-d81d235f9c45) &nbsp; [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
