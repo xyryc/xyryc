@@ -33,12 +33,10 @@
 - Exploring **TypeScript** and enhancing my frontend skills
 - Contributing to open-source projects
 
-
 <br>
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
-
 <br>
 <p align=center>
   <div align=center>
@@ -57,9 +55,15 @@
   </div>
 </p>
 
+<br>
 
+<hr>
+  <p>
+  <br><a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/></a></p>
+<hr>
 - ⚡ Fun fact: Game Developers Get To Play Games As Part Of Their Job
+<hr>
 
-<br><br>
+<br>
 
-![](https://komarev.com/ghpvc/?username=xyryc&style=flat)
+![](https://komarev.com/ghpvc/?username=xyryc&style=flat) &nbsp;[![wakatime](https://wakatime.com/badge/user/29aac146-9e8f-4c2a-adf9-d81d235f9c45.svg?style=flat)](https://wakatime.com/@29aac146-9e8f-4c2a-adf9-d81d235f9c45)
