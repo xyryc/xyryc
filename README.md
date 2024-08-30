@@ -23,9 +23,9 @@
 ## 🔧 Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks:** Tailwind CSS, DaisyUI, React, Node.js
-- **Tools:** Git, VS Code, Figma, Pixso
-- **Learning:** TypeScript, Next.js
+- **Frameworks:** Tailwind CSS, DaisyUI, React, React Native, Node.js
+- **Tools:** Git, VS Code, Figma, Pixso, Expo
+- **Learning:** TypeScript, Next.js, React Native
 
 ## 🌱 What I'm Currently Working On
 
@@ -38,7 +38,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div align=center>
+<div align=center>
     <a href="https://github.com/xyryc" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=xyryc&theme=react&border=61dafb&hide_border=true" alt="xyryc" />
     </a>
@@ -49,19 +49,18 @@
     <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/xyryc">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyryc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,jupyter%20notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyryc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,jupyter%20notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
 
 <br>
 
-  ## Free Palestine
-  
+## Free Palestine
+
   <p><a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/></a></p>
 
 - ⚡ Fun fact: Game Developers Get To Play Games As Part Of Their Job
-
 
 <br>
 
