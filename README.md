@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/xyryc">
-    <img style="border-radius: 10px" src="./images/coding.gif" alt="Banner">
+    <img style="border-radius: 8px" src="./images/coding.gif" alt="Banner">
   </a>
 </p>
 
@@ -34,8 +34,6 @@
 - Exploring **React** and enhancing my frontend skills
 - Contributing to open-source projects
 
-<br>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -55,16 +53,12 @@
   </div>
 </p>
 
-<br>
-
 ## Free Palestine
 
   <p><a href="https://techforpalestine.org/learn-more">
     <img style="border-radius: 3px" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/>
   </a></p>
 
-- ⚡ Fun fact: Game Developers Get To Play Games As Part Of Their Job
-
-<br>
+<!-- - ⚡ Fun fact: Game Developers Get To Play Games As Part Of Their Job -->
 
 ![](https://komarev.com/ghpvc/?username=xyryc&style=flat) &nbsp;[![wakatime](https://wakatime.com/badge/user/29aac146-9e8f-4c2a-adf9-d81d235f9c45.svg?style=flat)](https://wakatime.com/@29aac146-9e8f-4c2a-adf9-d81d235f9c45) &nbsp; [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
