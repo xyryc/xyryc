@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://github.com/xyryc"><img src="./images/coding.gif" alt="Banner"></a>
+  <a href="https://github.com/xyryc">
+    <img style="border-radius: 10px" src="./images/coding.gif" alt="Banner">
+  </a>
 </p>
 
 <h1 align="center">
@@ -11,26 +13,25 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/md-talath-un-nabi/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn</a></code>
   <code><a href="https://app.daily.dev/xyryc" title="CodeForces Profile"><img width="22" src="images/daily.dev.avif">daily.dev</a></code>
-  <code><a href="https://twitter.com/ANick20068930" title="Twitter Profile"><img width="22" src="images/twitter.jpg">Twitter</a></code>
+  <code><a href="#" title="Twitter Profile"><img width="22" src="images/twitter.jpg">Twitter</a></code>
   <code><a href="#" title="Instagram Profile"><img width="22" src="images/instagram.svg">Instagram</a></code>
 </h5>
 <br>
 <p>
-  Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative and user-friendly applications. Here's a bit about me:
-  <br>
-  <br>
+  Welcome to my GitHub profile! I'm a passionate developer who thrives on building engaging and user-friendly applications. I love exploring new technologies and turning ideas into reality. Feel free to check out my projects and connect!
+</p>
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks:** Tailwind CSS, DaisyUI, React, React Native, Node.js
-- **Tools:** Git, VS Code, Figma, Pixso, Expo
-- **Learning:** TypeScript, Next.js, React Native
+- **Languages:** JavaScript, HTML, CSS, Python
+- **Frameworks:** Tailwind CSS, DaisyUI, React, React Native
+- **Tools:** Vite, Git, VS Code, Figma, Expo
+- **Learning:** TypeScript, Next.js, React.js
 
-## 🌱 What I'm Currently Working On
+## 🐱‍👤 What I'm Currently Working On
 
 - Building responsive websites using **Tailwind CSS** and **DaisyUI**
-- Exploring **TypeScript** and enhancing my frontend skills
+- Exploring **React** and enhancing my frontend skills
 - Contributing to open-source projects
 
 <br>
@@ -58,7 +59,9 @@
 
 ## Free Palestine
 
-  <p><a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/></a></p>
+  <p><a href="https://techforpalestine.org/learn-more">
+    <img style="border-radius: 3px" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/>
+  </a></p>
 
 - ⚡ Fun fact: Game Developers Get To Play Games As Part Of Their Job
 
