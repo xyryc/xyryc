@@ -11,14 +11,14 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/md-talath-un-nabi/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn</a></code>
-  <code><a href="https://app.daily.dev/xyryc" title="CodeForces Profile"><img width="22" src="images/daily.dev.avif">daily.dev</a></code>
-  <code><a href="#" title="Twitter Profile"><img width="22" src="images/twitter.jpg">Twitter</a></code>
-  <code><a href="#" title="Instagram Profile"><img width="22" src="images/instagram.svg">Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/talath-un-nabi-anik" title="LinkedIn"><img width="22" src="images/linkedin.svg">LinkedIn</a></code>
+  <code><a href="https://app.daily.dev/xyryc" title="Daily.Dev"><img width="22" src="images/daily.dev.avif">daily.dev</a></code>
+  <code><a href="https://x.com/ANick20068930" title="Twitter"><img width="22" src="images/twitter.jpg">Twitter</a></code>
+  <code><a href="#" title="Instagram"><img width="22" src="images/instagram.svg">Instagram</a></code>
 </h5>
 <br>
 <p>
-  Welcome to my GitHub profile! I'm a passionate developer who thrives on building engaging and user-friendly applications. I love exploring new technologies and turning ideas into reality. Feel free to check out my projects and connect!
+  Hi! As a developer, I specialize in creating robust, scalable applications that leverage the latest technologies. I’m enthusiastic about bringing ideas to life as streamlined, functional solutions. Take a look at my work and feel free to reach out! 
 </p>
 
 ## 🔧 Technologies & Tools
