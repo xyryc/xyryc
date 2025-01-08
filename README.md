@@ -14,7 +14,6 @@
   <code><a href="https://www.linkedin.com/in/talath-un-nabi-anik" title="LinkedIn"><img width="22" src="images/linkedin.svg">LinkedIn</a></code>
   <code><a href="https://app.daily.dev/xyryc" title="Daily.Dev"><img width="22" src="images/daily.dev.avif">daily.dev</a></code>
   <code><a href="https://x.com/ANick20068930" title="Twitter"><img width="22" src="images/twitter.jpg">Twitter</a></code>
-  <code><a href="#" title="Instagram"><img width="22" src="images/instagram.svg">Instagram</a></code>
 </h5>
 <br>
 <h2>👨‍💻 About Me</h2>
