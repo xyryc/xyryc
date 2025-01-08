@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/xyryc">
-    <img style="border-radius: 8px" src="./images/frontend_banner.png" alt="Banner">
+    <img style="border-radius: 8px" src="./images/frontend_banner2.png" alt="Banner">
   </a>
 </p>
 
@@ -83,6 +83,5 @@
   <p><a href="https://techforpalestine.org/learn-more">
     <img style="border-radius: 3px" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/>
   </a></p>
-
 
 ![](https://komarev.com/ghpvc/?username=xyryc&style=flat) &nbsp;[![wakatime](https://wakatime.com/badge/user/29aac146-9e8f-4c2a-adf9-d81d235f9c45.svg?style=flat)](https://wakatime.com/@29aac146-9e8f-4c2a-adf9-d81d235f9c45) &nbsp; [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
