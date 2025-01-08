@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/xyryc">
-    <img style="border-radius: 8px" src="./images/coding.gif" alt="Banner">
+    <img style="border-radius: 8px" src="./images/frontend_banner.png" alt="Banner">
   </a>
 </p>
 
@@ -17,22 +17,47 @@
   <code><a href="#" title="Instagram"><img width="22" src="images/instagram.svg">Instagram</a></code>
 </h5>
 <br>
+<h2>👨‍💻 About Me</h2>
 <p>
-  Hi! As a developer, I specialize in creating robust, scalable applications that leverage the latest technologies. I’m enthusiastic about bringing ideas to life as streamlined, functional solutions. Take a look at my work and feel free to reach out! 
+ I'm Anik from Bangladesh, a frontend developer specializing in crafting efficient web applications. Proficient in React.js, Tailwind CSS, and the MERN stack, I deliver clean and scalable solutions.
 </p>
 
-## 🔧 Technologies & Tools
+<h2>💻 Technologies I use.</h2>
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
 
-- **Languages:** JavaScript, HTML, CSS, Python
-- **Frameworks:** Tailwind CSS, DaisyUI, React, React Native
-- **Tools:** Vite, Git, VS Code, Figma, Expo
-- **Learning:** TypeScript, Next.js, React.js
+###
 
 ## 🐱‍👤 What I'm Currently Working On
 
-- Building responsive websites using **Tailwind CSS** and **DaisyUI**
-- Exploring **React** and enhancing my frontend skills
-- Contributing to open-source projects
+- Building modern UI components with React and Tailwind CSS
+- Learning to develop full-stack applications using the MERN stack
+- Aiming to master TypeScript and Next.js for scalable frontends.
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -59,6 +84,5 @@
     <img style="border-radius: 3px" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/>
   </a></p>
 
-<!-- - ⚡ Fun fact: Game Developers Get To Play Games As Part Of Their Job -->
 
 ![](https://komarev.com/ghpvc/?username=xyryc&style=flat) &nbsp;[![wakatime](https://wakatime.com/badge/user/29aac146-9e8f-4c2a-adf9-d81d235f9c45.svg?style=flat)](https://wakatime.com/@29aac146-9e8f-4c2a-adf9-d81d235f9c45) &nbsp; [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
