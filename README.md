@@ -63,8 +63,8 @@
 <p align=center>
 <div align=center>
     <a href="https://github.com/xyryc">
-  <img width=390 src="https://nirzak-streak-stats.vercel.app?user=xyryc&theme=react&hide_border=true&card" alt="GitHub Streak" />
-</a>
+      <img align="left" width=390 src="https://nirzak-streak-stats.vercel.app?user=xyryc&theme=react&hide_border=true&card" alt="GitHub Streak" />
+    </a>
     <a href="https://github.com/xyryc" title="Go to Source">
     <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=xyryc&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />  
     </a>
@@ -76,7 +76,6 @@
     </a>
   </div>
 </p>
-<br>
 
 <!-- ## Free Palestine
 
@@ -84,5 +83,6 @@
     <img style="border-radius: 3px" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/>
   </a></p> -->
 
-![](https://komarev.com/ghpvc/?username=xyryc&style=flat) &nbsp;[![wakatime](https://wakatime.com/badge/user/29aac146-9e8f-4c2a-adf9-d81d235f9c45.svg?style=flat)](https://wakatime.com/@29aac146-9e8f-4c2a-adf9-d81d235f9c45) 
+![](https://komarev.com/ghpvc/?username=xyryc&style=flat) &nbsp;[![wakatime](https://wakatime.com/badge/user/29aac146-9e8f-4c2a-adf9-d81d235f9c45.svg?style=flat)](https://wakatime.com/@29aac146-9e8f-4c2a-adf9-d81d235f9c45)
+
 <!-- &nbsp; [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more) -->
