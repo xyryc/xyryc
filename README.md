@@ -11,14 +11,14 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/talath-un-nabi-anik" title="LinkedIn"><img width="22" src="images/linkedin.svg">LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/md-talath-un-nabi/" title="LinkedIn"><img width="22" src="images/linkedin.svg">LinkedIn</a></code>
   <code><a href="https://app.daily.dev/xyryc" title="Daily.Dev"><img width="22" src="images/daily.dev.avif">daily.dev</a></code>
   <code><a href="https://x.com/ANick20068930" title="Twitter"><img width="22" src="images/twitter.jpg">Twitter</a></code>
 </h5>
 <br>
 <h2>👨‍💻 About Me</h2>
 <p>
- I'm Md Talath Un Nabi from Bangladesh, a frontend developer specializing in crafting efficient web applications. Proficient in React.js, Tailwind CSS, and the MERN stack, I deliver clean and scalable solutions.
+I'm Md Talath Un Nabi, a developer from Bangladesh. I build web and mobile applications using the MERN stack, React.js, Next.js, and React Native. I focus on writing clean code, solving coding challenges, and improving my development skills. Currently exploring full-stack development and scalable systems.
 </p>
 
 <h2>💻 Technologies I use.</h2>
@@ -55,8 +55,8 @@
 ## 🐱‍👤 What I'm Currently Working On
 
 - Building modern UI components with React and Tailwind CSS
-- Learning to develop full-stack applications using the MERN stack
-- Aiming to master TypeScript and Next.js for scalable frontends.
+- Learning to develop full-stack applications using the Next.js
+- Aiming to master TypeScript and Redux for scalable frontends.
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
