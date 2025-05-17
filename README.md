@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/xyryc">
-    <img style="border-radius: 8px" src="./images/github_banner.png" alt="Banner">
+    <img style="border-radius: 8px" src="./images/github_banner_updated.png" alt="Banner">
   </a>
 </p>
 
